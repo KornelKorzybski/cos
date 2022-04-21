@@ -1,14 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="PL-pl">
     <head>
-        <title>strona projektowa</title>
+        <title>LKS MATSOGI Ciechanów</title>
     </head>
     <body>
         <h1 align="center" style="font-family:Georgia, 'Times New Roman', Times, serif"><i>Witaj na stronie!</i> </h1>
-        <h1 align="center"style="font-family:Georgia, 'Times New Roman', Times, serif"><b>Czy chcesz sie zarejestrowac?</b></h1>
     </br>
     </br>
-        <button align="center">Tak</button>
+       <button type="submit" role="button">Zarejestruj się</button>
     </br>
     <button type="submit" value="koniec" class="btn" align="center">Hell nah</button>
     </body>
