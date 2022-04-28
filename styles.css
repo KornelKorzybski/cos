@@ -1,2 +1,9 @@
-body{
-	background-image="tkd.jpg"
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background-image: url("./tkd.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+}
