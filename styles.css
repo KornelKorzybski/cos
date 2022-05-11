@@ -3,6 +3,13 @@
 	margin: 0;
 	padding: 0;
 }
+header {
+  width: 1000px;
+  margin: auto;
+  min-height: 120px;
+  margin-bottom: -1px;
+  overflow: auto;
+}
 h2{
     align-self: top;
     break : none;
