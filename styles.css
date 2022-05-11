@@ -3,8 +3,10 @@
 	margin: 0;
 	padding: 0;
 }
-h1{
+h2{
     align-self: top;
+    break : none;
+    width : 100%;
 }
 body {
     background-image: url(./choi.jpg);
@@ -21,9 +23,11 @@ form {
     background-color: rgba(255, 255, 255, 0.5);
     border-radius: 15px;
     box-shadow: 0px 8px 24px 0 rgba(0, 0, 0, 0.3);
+    height: 350px;
     max-width: 300px;
     padding: 36px 24px;
     text-align: center;
+    float: none;
 }
 .form_input-container{
     position:relative;
