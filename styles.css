@@ -3,16 +3,8 @@
 	margin: 0;
 	padding: 0;
 }
-header {
-  width: 1000px;
-  margin: auto;
-  min-height: 120px;
-  margin-bottom: -1px;
-  overflow: auto;
-}
 h2{
     align-self: top;
-    break : none;
     width : 100%;
 }
 body {
@@ -50,7 +42,7 @@ button{
     border: none;
     border-radius: 18px;
     box-shadow: 0px 8px 24px 0 rgba(0, 0, 0, 0.3);
-    color: rgb(255, 255, 255);
+    color: rgb(187, 0, 0);
     font-size: 24px;
     padding: 12px 24px;
     transition: box-shadow 0.3s, outline 0.3s;
@@ -60,7 +52,7 @@ input{
     width: 100%;
 }
 label{
-    color: rgb(255, 255, 255);
+    color: rgb(130, 44, 44);
     cursor: text;
     font-style: italic;
     left: 0;
