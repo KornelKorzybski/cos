@@ -1,0 +1,1 @@
+SELECT * FROM zawodnicy.info_zaw;
